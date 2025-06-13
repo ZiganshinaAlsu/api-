@@ -1,3 +1,3 @@
 Тестирование API
 
-https://app.getpostman.com/join-team?invite_code=46f5f697e948a4200086caf438cb1adf3646a5087f5782d08c19b4f74a8440fd&target_code=f1bb229ee4a27830bf03f0bda517ad60
+https://www.postman.com/alsu-5043888/alsu-s-workspace/collection/2huuabc/demoshopping?action=share&creator=45750648
